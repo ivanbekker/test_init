@@ -12,6 +12,9 @@
 [Как запусттить Powershell](https://youtu.be/p2tFnxcymwk) в режиме
 администратора.
 
+
+
+
 ```shell
 npm install --global --production windows-build-tools
 ```
